@@ -23,6 +23,10 @@
           "url": "https://mtlfs.vta.org/mtlfs/toll_periods.json"
         },
         {
+          "name": "toll_status",
+          "url": "https://mtlfs.vta.org/mtlfs/toll_status.json"
+        },
+        {
           "name": "toll_facility",
           "url": "https://mtlfs.vta.org/mtlfs/toll_facility.json"
         },
