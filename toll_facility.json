@@ -1,0 +1,20 @@
+{
+  "data": {
+    "facilities":[
+      {
+        "facility_id": "CLW",
+        "facility_type": "Express Lanes",
+        "lane_type": "Carpool Lane",
+        "facility_lane": "Left Lane",
+        "facility_access": "Single Entry and Exit"
+      },
+      {
+        "facility_id": "FSE",
+        "facility_type": "Express Lanes",
+        "lane_type": "Carpool Lane",
+        "facility_lane": "Left Lane",
+        "facility_access": "Single Entry and Exit"
+      }
+    ]
+  }
+}

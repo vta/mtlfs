@@ -1,0 +1,14 @@
+{
+  "data":
+  {
+    "vehicle_type": "SOV",
+    "tolling_methods": "transponder",
+    "payment_options": "FasTrak",
+    "toll_periods": "dynamic",
+    "minimum_toll": "0.50",
+    "maximum_toll": "8.00",
+    "toll_currency": "USD",
+    "toll_exemptions": [ "HOV2", "Motorbike", "transit", "greensticker", "whitesticker" ],
+    "toll_restrictions": "none",
+  }
+}

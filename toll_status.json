@@ -1,0 +1,20 @@
+{
+  "data": {
+    "facilities": [
+      {
+        "facility_id": "CLW",
+        "interval_starting": 0,
+        "pricing_module": "",
+        "message_module": "",
+        "algorithm_mode": "EL Speed"
+      },
+      {
+        "facility_id": "FSE",
+        "interval_starting": 0,
+        "pricing_module": "",
+        "message_module": "",
+        "algorithm_mode": "EL Speed"
+      }
+    ]
+  }
+}
