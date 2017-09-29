@@ -9,6 +9,6 @@
     "maximum_toll": "8.00",
     "toll_currency": "USD",
     "toll_exemptions": [ "HOV2", "Motorbike", "transit", "greensticker", "whitesticker" ],
-    "toll_restrictions": "none",
+    "toll_restrictions": "none"
   }
 }
