@@ -15,10 +15,6 @@
           "url": "https://mtlfs.vta.org/mtlfs/general_toll_info.json"
         },
         {
-          "name": "toll_signs",
-          "url": "https://mtlfs.vta.org/mtlfs/toll_signs.json"
-        },
-        {
           "name": "toll_periods",
           "url": "https://mtlfs.vta.org/mtlfs/toll_periods.json"
         },
@@ -33,6 +29,18 @@
         {
           "name": "toll_destination",
           "url": "https://mtlfs.vta.org/mtlfs/toll_destination.json"
+        },
+        {
+          "name": "toll_signs_geom",
+          "url": "https://mtlfs.vta.org/mtlfs/toll_signs_geom.json"
+        },
+        {
+          "name": "facility_geom",
+          "url": "https://mtlfs.vta.org/mtlfs/facility_geom.json"
+        },
+        {
+          "name": "gantry_geom",
+          "url": "https://mtlfs.vta.org/mtlfs/gantry_geom.json"
         }
       ]
     }
