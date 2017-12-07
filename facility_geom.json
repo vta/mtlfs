@@ -4,7 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 
 "features": [
-    { "type": "Feature", "properties": { "facility_id": "CLW" }, 
+    { "type": "Feature", "properties": { "facility_id": "CLW" "description": "Length of the double white line striping" }, 
 
       
       "geometry": {
@@ -413,7 +413,7 @@
         ]
       }
     },
-    {"type": "Feature", "properties": {"facility_id": "FSE"},
+    {"type": "Feature", "properties": {"facility_id": "FSE", "description": "Length of the double white line striping" },
     
     "geometry": {
       "type": "LineString",
