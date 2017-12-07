@@ -1,9 +1,9 @@
 {
 "type": "FeatureCollection",
-"name": "Length of the double white line striping",
 "crs": { "type": "name","properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+
 "features": [
-    { "type": "Feature", "properties": { "facility_id": "CLW"}, 
+    { "type": "Feature", "properties": { "facility_id": "CLW", "name": "Length of the double white line striping" }, 
 
       
       "geometry": {
@@ -414,12 +414,11 @@
     },
     {
   "type": "FeatureCollection",
-  "name": "Length of the double white line striping",
   "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 
   "features": [
     {"type": "Feature",      
-      "properties": {"facility_id": "FSE"},
+      "properties": {"facility_id": "FSE", "name": "Length of the double white line striping"},
     
     "geometry": {
       "type": "LineString",
