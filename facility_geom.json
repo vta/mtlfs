@@ -412,9 +412,7 @@
           ]
         ]
       }
-    }
-    ],
-   [
+    },
     {"type": "Feature", "properties": {"facility_id": "FSE"},
     
     "geometry": {
