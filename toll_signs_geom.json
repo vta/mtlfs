@@ -1,32 +1,17 @@
 {
 	"type": "FeatureCollection",
+	"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+	
         "features": [
  
-        {
-  		"type": "Feature",
-  		"facility_id": "CLW",
-  		"sign_id": "750",
-		"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+        {"type": "Feature", "properties": { "facility_id": "CLW", "sign_id": "750", "sign_type": ["Dynamic Toll Rate", "Dynamic Messages"], "toll_destination" : "North First St" },
+		
   		"geometry": {
- 	  		"type": "Point",
- 	  		"coordinates": [-121.92073, 37.44290]
- 					},
-  		"sign_type": ["Dynamic Toll Rate", "Dynamic Messages"],
-  		"toll_destination" : "North First St"
- 		},
+ 	  		"type": "Point", "coordinates": [-121.92073, 37.44290] } },
  
- 
- 		{
- 		"type": "Feature",
-  		"facility_id": "FSE",
-  		"sign_id": "250",
-		"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+ 	{"type": "Feature", "properties": {"facility_id": "FSE", "sign_id": "250", "sign_type": ["Dynamic Toll Rate","Dynamic Messages"], "toll_destination" : "I-880 NB" },
+		
   		"geometry": {
- 	  		"type": "Point",
- 	  		"coordinates": [-121.94227, 37.41967]
- 					},
-  		"sign_type": ["Dynamic Toll Rate","Dynamic Messages"],
- 		"toll_destination" : "I-880 NB"
- 		}
- 					]
- }
+ 	  		"type": "Point", "coordinates": [-121.94227, 37.41967] } }
+]
+}
