@@ -415,8 +415,7 @@
     }
     ],
    [
-    {"type": "Feature",      
-      "properties": {"facility_id": "FSE", "name": "Length of the double white line striping"},
+    {"type": "Feature", "properties": {"facility_id": "FSE"},
     
     "geometry": {
       "type": "LineString",
